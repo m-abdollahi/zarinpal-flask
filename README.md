@@ -10,4 +10,4 @@ Just a module for Flask and zarinpall users with zeep (client) library \
 i) Install requirement libraries \
 ii) 🎈 Set your zarinpal Merchant ID \
 iii) ✏ Change Products Descriptions or .... \
-iv) ❤ have fun \
+iv) ❤ have fun
