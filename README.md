@@ -1,2 +1,2 @@
-# zarinpal-flask
-Zarinpal module for Flask framework
+# Zarinpal module for Flask
+
