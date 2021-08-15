@@ -6,7 +6,7 @@
 * Flask
 * zeep (Client)
 ## How to use it?
-i) Install requirement libraries
-ii) 🎈 Set your zarinpal Merchant ID 
-iii) ✏ Change Products Descriptions or ....
-iv) ❤ have fun
+i) Install requirement libraries \
+ii) 🎈 Set your zarinpal Merchant ID \
+iii) ✏ Change Products Descriptions or .... \
+iv) ❤ have fun \
