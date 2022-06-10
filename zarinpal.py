@@ -4,7 +4,7 @@
 # Zarinpal addon for flask Using Client (zeep)
 
 from flask import Flask, url_for, redirect, request
-from suds.client import Client
+from zeep.client import Client
 
 
 app = Flask(__name__)
